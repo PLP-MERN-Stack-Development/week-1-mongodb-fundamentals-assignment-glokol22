@@ -1,3 +1,5 @@
+use plp_bookstore;
+
 db.books.insertMany([
   {
     title: "The Pragmatic Programmer",
